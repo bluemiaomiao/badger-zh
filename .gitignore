@@ -1,0 +1,6 @@
+p/
+badger-test*/
+.idea/
+.vscode/
+
+vendor
